@@ -1,2 +1,2 @@
 # PORTFOLIO-ALAN
-filmes e anim 
+filmes e anime
