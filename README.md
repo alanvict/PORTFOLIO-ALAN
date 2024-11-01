@@ -1,2 +1,5 @@
 # PORTFOLIO-ALAN
 filmes e anime
+# 🌟 Bem-vindo ao meu GitHub! ## 👨‍🏫 Sobre Mim Olá! Sou professor de **Arquitetura e Urbanismo**, apaixonado por conectar **Pensamento Computacional**, **Matemática II (Programação)**, **Matemática** e **Física** ao mundo da criação e inovação. Meu objetivo é inspirar alunos a explorar a interseção entre ciência e arte. ## 🛠️ Projetos Aqui você encontrará uma variedade de projetos, incluindo: - 🏗️ **Desenhos e Modelagens Arquitetônicas** - 🌳 **Planejamento Urbano** - 💡 **Algoritmos e Programação Aplicada** - 📊 **Experimentos Matemáticos e Físicos** ## 📱 Redes Sociais Conecte-se comigo nas redes sociais: - **Instagram**: [@seu_usuario](https://www.instagram.com/alanvictor266) 📸 - **Facebook**: [Seu Perfil](https://www.facebook.com/seu_perfil) 📘 - **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/seu_perfil) 💼 - **WhatsApp**: [Envie uma mensagem](https://wa.me/43 99712108 💬 - **YouTube**: [Seu Canal](https://ww.youtube.com/alanvic1421)
+Caixa de entrada
+
